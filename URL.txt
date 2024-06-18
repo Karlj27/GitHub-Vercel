@@ -1,1 +1,2 @@
-https://git-hub-vercel-5w0tvb6fd-karls-projects-0cf34f92.vercel.app/
+Lab 2 Vercel Website Deployment: https://git-hub-vercel-5w0tvb6fd-karls-projects-0cf34f92.vercel.app/
+Github link: https://github.com/Karlj27/GitHub-Vercel.git
